@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <id>1</id>
+    <name>William Lima</name>
+    <address>
+        <addressLine1>Rua Z</addressLine1>
+        <addressLine2>Cond Y</addressLine2>
+        <country>Brasil</country>
+        <state>Sergipe</state>
+        <zip>-20928</zip>
+    </address>
+</employee>
